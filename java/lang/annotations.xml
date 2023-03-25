@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.Integer java.lang.String toString(int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;new&quot;"/>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

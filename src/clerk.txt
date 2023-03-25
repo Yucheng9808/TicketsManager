@@ -1,0 +1,172 @@
+/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59846:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caleb/Desktop/CSC8012Coursework Yucheng Liu/out/production/CSC8012Coursework Yucheng Liu src.MainProgram
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+a
+Bowling 7
+Cycling 10
+Football 22
+Hiking 6
+Sailing 3
+Table Tennis 4
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+c
+Anna Smith
+Michael Smith
+Ted Jones
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+t
+Please enter customer name:
+asdadad
+The customer is not registered
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+t
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+awdadaa 1
+Sorry, the activity you entered is not available.
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+t
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+Hiking 10000
+Sorry, there are not enough tickets for this activities.
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+t
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+Hiking 3
+Order successful! Information has updated
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+r
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+Hiking 4
+Sorry, Cancellation of tickets in excess of the number previously purchased
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+r
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+Hiking 3
+Cancel successful! Information has updated
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+r
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+adwaada 1
+Sorry, the activity you entered is not available.
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+r
+Please enter customer name:
+Anna Smith
+Please enter the activities and number of tickets you want to order:
+Hiking adwawa
+Sorry, the number of tickets  you entered is not available.
+
+
+Welcome to Ticket manager!
+
+f - to finish running the program.
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+Please select one option and type in the character:
+f
+
+The program has finished.
+
+Process finished with exit code 0

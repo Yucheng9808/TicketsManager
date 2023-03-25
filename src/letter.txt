@@ -1,0 +1,6 @@
+Anna Smith: 
+Sorry, there are not enough tickets of Hiking activities.
+It is only 6 left.
+Anna Smith:
+Sorry, Cancellation of tickets in excess of the number previously purchased.
+you only purchased 3 ticket(s)
